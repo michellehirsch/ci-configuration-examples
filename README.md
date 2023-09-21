@@ -1,7 +1,4 @@
-| **Azure<sup>&reg;</sup>&nbsp;DevOps** | **CircleCI<sup>&reg;</sup>** | **GitHub<sup>&reg;</sup>&nbsp;Actions** | **Travis&nbsp;CI&trade;** | 
-|:---------------------------|:-----------------:|:----------------------------:|:--------------------------:|
-| [![Build Status](https://dev.azure.com/iat-ci/ci-configuration-examples/_apis/build/status/mathworks.ci-configuration-examples)](https://dev.azure.com/iat-ci/ci-configuration-examples/_build) <br> ![Azure DevOps Coverage](https://img.shields.io/azure-devops/coverage/iat-ci/ci-configuration-examples/36) | [![CircleCI](https://circleci.com/gh/mathworks/ci-configuration-examples.svg?style=svg)](https://circleci.com/gh/mathworks/ci-configuration-examples) <br><br> | [![MATLAB](https://github.com/mathworks/ci-configuration-examples/actions/workflows/ci.yml/badge.svg)](https://github.com/mathworks/ci-configuration-examples/actions/workflows/ci.yml) <br><br> | [![Build Status](https://app.travis-ci.com/mathworks/ci-configuration-examples.svg)](https://app.travis-ci.com/mathworks/ci-configuration-examples) <br><br> |
-
+[![MATLAB](https://github.com/michellehirsch/ci-configuration-examples/actions/workflows/ci.yml/badge.svg)](https://github.com/michellehirsch/ci-configuration-examples/actions/workflows/ci.yml)
 
 
 # Continuous Integration (CI) configuration examples for MATLAB<sup>&reg;</sup>
@@ -53,7 +50,7 @@ Badges look really great, but they're not always easy to set up. Take a look at 
 | **Azure&nbsp;DevOps** |  |
 |:---------------------------|:-|
 | Badges | [![Build Status](https://dev.azure.com/iat-ci/ci-configuration-examples/_apis/build/status/mathworks.ci-configuration-examples)](https://dev.azure.com/iat-ci/ci-configuration-examples/_build) <br> ![Azure DevOps Coverage](https://img.shields.io/azure-devops/coverage/iat-ci/ci-configuration-examples/36) |
-| Badge Code | \[\!\[Build Status](https[]()://dev.azure.com/***AZURE_DEVOPS_ORG***/***AZURE_DEVOPS_PROJECT_NAME***/_apis/build/status/***GITHUB_USERNAME***.***GITHUB_REPO_NAME***)](https[]()://dev.azure.com/***AZURE_DEVOPS_ORG***/***AZURE_DEVOPS_PROJECT_NAME***/_build) <br><br> \!\[Azure DevOps Coverage](https[]()://img.shields.io/azure-devops/coverage/***AZURE_DEVOPS_ORG***/***AZURE_DEVOPS_PROJECT_NAME***/***AZURE_DEVOPS_DEFINITION_ID***) |
+| Badge Code | \[\!\[Build Status](https[]()://dev.azure.com/***AZURE_DEVOPS_ORG***/***AZURE_DEVOPS_PROJECT_NAME***/_apis/build/status/***michellehirsch***.***ci-configuration-examples***)](https[]()://dev.azure.com/***AZURE_DEVOPS_ORG***/***AZURE_DEVOPS_PROJECT_NAME***/_build) <br><br> \!\[Azure DevOps Coverage](https[]()://img.shields.io/azure-devops/coverage/***AZURE_DEVOPS_ORG***/***AZURE_DEVOPS_PROJECT_NAME***/***AZURE_DEVOPS_DEFINITION_ID***) |
 | Badge Help | [Blog with helpful information for setting up Azure DevOps badges](https://gregorsuttie.com/2019/03/20/azure-devops-add-your-build-status-badges-to-your-wiki/) |
 
 <br>
@@ -61,7 +58,7 @@ Badges look really great, but they're not always easy to set up. Take a look at 
 | **CircleCI** |  |
 |:------------------|:-|
 | Badge | [![CircleCI](https://circleci.com/gh/mathworks/ci-configuration-examples.svg?style=svg)](https://circleci.com/gh/mathworks/ci-configuration-examples) |
-| Badge Code | \[\!\[CircleCI](https[]()://circleci.com/***SOURCE_CONTROL_SYSTEM***/***GITHUB_USERNAME***/***GITHUB_REPO_NAME***.svg?style=svg)](https[]()://circleci.com/***SOURCE_CONTROL_SYSTEM***/***GITHUB_USERNAME***/***GITHUB_REPO_NAME***) |
+| Badge Code | \[\!\[CircleCI](https[]()://circleci.com/***SOURCE_CONTROL_SYSTEM***/***michellehirsch***/***ci-configuration-examples***.svg?style=svg)](https[]()://circleci.com/***SOURCE_CONTROL_SYSTEM***/***michellehirsch***/***ci-configuration-examples***) |
 | Badge Help | [CircleCI documentation for setting up badges](https://circleci.com/docs/2.0/status-badges "CircleCI documentation for setting up badges") |
 
 <br>
@@ -69,7 +66,7 @@ Badges look really great, but they're not always easy to set up. Take a look at 
 | **GitHub&nbsp;Actions** |  |
 |:-----------------------------|:-|
 | Badge | [![MATLAB](https://github.com/mathworks/ci-configuration-examples/actions/workflows/ci.yml/badge.svg)](https://github.com/mathworks/ci-configuration-examples/actions/workflows/ci.yml) |
-| Badge Code | \[\!\[MATLAB](https[]()://github.com/***GITHUB_USERNAME***/***GITHUB_REPO_NAME***/actions/workflows/ci.yml/badge.svg)](https[]()://github.com/***GITHUB_USERNAME***/***GITHUB_REPO_NAME***/actions/workflows/ci.yml) |
+| Badge Code | \[\!\[MATLAB](https[]()://github.com/***michellehirsch***/***ci-configuration-examples***/actions/workflows/ci.yml/badge.svg)](https[]()://github.com/***michellehirsch***/***ci-configuration-examples***/actions/workflows/ci.yml) |
 | Badge Help | [GitHub Actions documentation for setting up badges](https://docs.github.com/en/actions/managing-workflow-runs/adding-a-workflow-status-badge) |
 
 <br>
@@ -77,7 +74,7 @@ Badges look really great, but they're not always easy to set up. Take a look at 
 | **Travis&nbsp;CI** |  |
 |:--------------------------|:-|
 | Badge | [![Build Status](https://app.travis-ci.com/mathworks/ci-configuration-examples.svg)](https://app.travis-ci.com/mathworks/ci-configuration-examples) |
-| Badge Code | \[\!\[Build Status](https[]()://app.travis-ci.com/***GITHUB_USERNAME***/***GITHUB_REPO_NAME***.svg)](https[]()://app.travis-ci.com/***GITHUB_USERNAME***/***GITHUB_REPO_NAME***) |
+| Badge Code | \[\!\[Build Status](https[]()://app.travis-ci.com/***michellehirsch***/***ci-configuration-examples***.svg)](https[]()://app.travis-ci.com/***michellehirsch***/***ci-configuration-examples***) |
 | Badge Help | [Travis CI documentation for setting up badges](https://docs.travis-ci.com/user/status-images/ "Travis CI documentation for setting up badges") |
 
 <br>
@@ -94,7 +91,7 @@ Badges look really great, but they're not always easy to set up. Take a look at 
     * The badge code you copy should start with "`[!`" and not "`\[\!`"
 2. Replace all ***BOLD+ITALIC*** names with your specific credentials/names
     * Replace ***GITHUB_ORG*** with your GitHub organization name (usually your GitHub username)
-    * Replace ***GITHUB_REPO_NAME*** with the name of your GitHub repository
+    * Replace ***ci-configuration-examples*** with the name of your GitHub repository
     * Replace ***SOURCE_CONTROL_SYSTEM*** with the name of the source control system you are pointing to (gh = GitHub, bb = BitBucket)
     * Replace ***AZURE_DEVOPS_ORG*** with the name of your Azure DevOps organization name (usually your Azure DevOps username)
     * Replace ***AZURE_DEVOPS_PROJECT_NAME*** with the name of the Azure DevOps project that will run the CI job
