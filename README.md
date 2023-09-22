@@ -3,7 +3,7 @@
 
 # Continuous Integration (CI) configuration examples for MATLAB<sup>&reg;</sup>
 
-Are you interested in automating your testing with CI? I know I am!
+Are you interested in automating your testing with CI? 
 
 Not sure how to connect MATLAB with CI systems?
 
