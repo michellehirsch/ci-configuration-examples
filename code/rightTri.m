@@ -1,7 +1,7 @@
 function angles = rightTri(sides)
 % rightTri Compute the angles of a right triangle
 %
-% ANGLES = rightTri(SIDES) returns array ARRAY containing the the
+% ANGLES = rightTri(SIDES) returns array ANGLES containing the the
 % three angles of a right triangle with side lengths SIDES. SIDES is a
 % 2-element vector specifying the lengths of the two sides joined by the
 % right angle. 
