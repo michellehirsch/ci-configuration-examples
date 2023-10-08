@@ -6,7 +6,7 @@ function angles = rightTri(sides)
 % 2-element vector specifying the lengths of the two sides joined by the
 % right angle. 
 
-A = atan(sides(1)/sides(2));
+A = atand(sides(1)/sides(2));
 B = atand(sides(2)/sides(1));
 hypotenuse = sides(1)/sind(A);
 C = asind(hypotenuse*sind(A)/sides(1));
