@@ -2,6 +2,7 @@
 
 
 # Continuous Integration (CI) configuration examples for MATLAB<sup>&reg;</sup>
+It is October 8th
 
 Are you interested in automating your testing with CI? 
 
