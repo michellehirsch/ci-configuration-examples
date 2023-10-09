@@ -5,6 +5,10 @@ function angles = rightTri(sides)
 % three angles of a right triangle with side lengths SIDES. SIDES is a
 % 2-element vector specifying the lengths of the two sides joined by the
 % right angle. 
+%
+% Example:
+%   angles = rightTri([10 10])
+
 
 A = atand(sides(1)/sides(2));
 B = atand(sides(2)/sides(1));
